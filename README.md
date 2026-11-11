@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Google "Nazmus Sadat Jisan"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn new things.
--->
   
 # 💫 About Me:
 Nazmus Sadat Jisan | Enterprise Systems & Infrastructure Engineer actively expanding into Cloud Engineering and DevOps, leveraging hands-on experience in Linux administration, VMware virtualization, and enterprise networking to design scalable, secure, and resilient cloud-native infrastructure. Currently focused on mastering container orchestration with Docker and Kubernetes, automating provisioning and configuration via Terraform and Ansible, and engineering automated CI/CD pipelines to bridge traditional high-availability systems with modern cloud practices.
